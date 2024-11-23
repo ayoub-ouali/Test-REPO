@@ -1,0 +1,29 @@
+li {
+    list-style: none; 
+    display: inline;
+    padding: 8px; 
+}
+
+a {
+    text-decoration: none; 
+    color: black;
+    font-family: Arial Narrow;
+}
+
+nav {
+    display: flex; 
+    justify-content: flex-end; 
+    box-shadow: 1px 3PX ;
+}
+
+#list {
+    margin-top: 10px;
+}
+
+#logo {
+    margin-right: auto;  
+}
+
+* {
+   margin: 5px;
+ }
